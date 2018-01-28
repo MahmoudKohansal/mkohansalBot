@@ -1,5 +1,5 @@
 # mkohansalBot
-it's a simple telegram bot that answer some simple Persian question and use entity framework code-first as database.
+A simple C# telegram bot that answer some simple Persian question(Get and Send Text Messages) and use entity framework code-first as database.
 
 Commands are:
 
